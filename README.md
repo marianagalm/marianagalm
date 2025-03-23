@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on JavaScript, CSS3, HTML5 and TypeScript.
 - 🌱 I’m currently learning NodeJS and React.
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/marianagalm/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/marianagalm/)
 
 <div>
   <p>
